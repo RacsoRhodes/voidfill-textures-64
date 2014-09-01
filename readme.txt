@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 --
--- Voidfill Textures 64                                               2014-08-25
+-- Voidfill Textures 64 1.1                                           2014-08-31
 --
 -- By Racso Rhodes
 --
@@ -33,25 +33,15 @@
 
 	Additional Textures on GitHub
 
-		32x32
+	32 https://github.com/RacsoRhodes/voidfill-textures-32/archive/master.zip
 
-			https://github.com/RacsoRhodes/voidfill-textures-32
+	64 https://github.com/RacsoRhodes/voidfill-textures-64/archive/master.zip
 
-		64x64
+	128 https://github.com/RacsoRhodes/voidfill-textures-128/archive/master.zip
 
-			https://github.com/RacsoRhodes/voidfill-textures-64
+	256 https://github.com/RacsoRhodes/voidfill-textures-256/archive/master.zip
 
-		128x128
-
-			https://github.com/RacsoRhodes/voidfill-textures-128
-
-		256x256
-
-			https://github.com/RacsoRhodes/voidfill-textures-256
-
-		512x512
-
-			https://github.com/RacsoRhodes/voidfill-textures-512
+	512	https://github.com/RacsoRhodes/voidfill-textures-512/archive/master.zip
 
 --------------------------------------------------------------------------------
 -- EOF
